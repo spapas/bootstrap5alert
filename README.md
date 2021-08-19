@@ -1,6 +1,6 @@
 # bootstrap5alert
 
-A simple alert utility similar to sweet-alert. It uses the bootstrap 5 css and javascript. No other requirements beyond bootstrap.
+A simple alert utility similar to sweet-alert. It uses the bootstrap 5 css and javascript to display a modal alert dialog. Has no other requirements beyond bootstrap 5. Useful to avoid using plain javascript `alert` or `confirm`.
 
 ## Installation
 
