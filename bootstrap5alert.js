@@ -8,8 +8,8 @@ const makeId = length => {
   return result
 }
 
-if (typeof variable === 'undefined') {
-  const gettext = (str) => str
+if (typeof gettext === 'undefined') {
+  var gettext = (str) => str
 }
 
 const dangerIcon = `<b>
